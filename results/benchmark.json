@@ -1,0 +1,34 @@
+{
+  "description": "Original partially observed 2D colour-keyed simulator, not real robot / AI2-THOR",
+  "seed_start": 1000,
+  "seed_end": 1249,
+  "trials_per_policy": 250,
+  "step_budget": 230,
+  "dynamic": true,
+  "sensor_rgb_noise_std": 10.0,
+  "policies": {
+    "reactive": {
+      "successful_episodes": 103,
+      "success_rate": 0.412,
+      "95pct_wilson_CI": [
+        0.3528,
+        0.4739
+      ],
+      "mean_steps": 175.95,
+      "mean_collisions": 0.992,
+      "mean_path_efficiency": 0.0904
+    },
+    "modular": {
+      "successful_episodes": 250,
+      "success_rate": 1.0,
+      "95pct_wilson_CI": [
+        0.9849,
+        1.0
+      ],
+      "mean_steps": 32.23,
+      "mean_collisions": 0.964,
+      "mean_path_efficiency": 0.6127
+    }
+  },
+  "absolute_success_gain_pp": 58.8
+}

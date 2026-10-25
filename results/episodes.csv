@@ -1,0 +1,501 @@
+seed,strategy,success,steps,collisions,shortest_path,efficiency,reason
+1000,reactive,False,230,1,28,0.0,step budget exhausted
+1000,modular,True,35,1,28,0.8,target reached
+1001,reactive,True,24,1,9,0.375,target reached
+1001,modular,True,9,0,9,1.0,target reached
+1002,reactive,True,219,1,22,0.1005,target reached
+1002,modular,True,25,1,22,0.88,target reached
+1003,reactive,False,230,1,20,0.0,step budget exhausted
+1003,modular,True,31,1,20,0.6452,target reached
+1004,reactive,False,230,1,11,0.0,step budget exhausted
+1004,modular,True,14,1,11,0.7857,target reached
+1005,reactive,False,230,1,14,0.0,step budget exhausted
+1005,modular,True,75,1,14,0.1867,target reached
+1006,reactive,False,230,1,22,0.0,step budget exhausted
+1006,modular,True,23,1,22,0.9565,target reached
+1007,reactive,False,230,1,15,0.0,step budget exhausted
+1007,modular,True,72,1,15,0.2083,target reached
+1008,reactive,False,230,1,24,0.0,step budget exhausted
+1008,modular,True,31,1,24,0.7742,target reached
+1009,reactive,False,230,1,13,0.0,step budget exhausted
+1009,modular,True,20,1,13,0.65,target reached
+1010,reactive,True,9,0,9,1.0,target reached
+1010,modular,True,9,0,9,1.0,target reached
+1011,reactive,False,230,1,16,0.0,step budget exhausted
+1011,modular,True,17,1,16,0.9412,target reached
+1012,reactive,False,230,1,16,0.0,step budget exhausted
+1012,modular,True,29,1,16,0.5517,target reached
+1013,reactive,True,113,1,10,0.0885,target reached
+1013,modular,True,31,1,10,0.3226,target reached
+1014,reactive,True,12,1,9,0.75,target reached
+1014,modular,True,14,1,9,0.6429,target reached
+1015,reactive,False,230,1,23,0.0,step budget exhausted
+1015,modular,True,34,1,23,0.6765,target reached
+1016,reactive,False,230,1,11,0.0,step budget exhausted
+1016,modular,True,26,1,11,0.4231,target reached
+1017,reactive,False,230,1,13,0.0,step budget exhausted
+1017,modular,True,78,1,13,0.1667,target reached
+1018,reactive,True,54,1,11,0.2037,target reached
+1018,modular,True,12,1,11,0.9167,target reached
+1019,reactive,True,100,1,17,0.17,target reached
+1019,modular,True,40,1,17,0.425,target reached
+1020,reactive,True,28,1,13,0.4643,target reached
+1020,modular,True,16,1,13,0.8125,target reached
+1021,reactive,True,83,1,10,0.1205,target reached
+1021,modular,True,39,1,10,0.2564,target reached
+1022,reactive,True,192,1,15,0.0781,target reached
+1022,modular,True,24,1,15,0.625,target reached
+1023,reactive,True,176,1,17,0.0966,target reached
+1023,modular,True,36,1,17,0.4722,target reached
+1024,reactive,False,230,1,18,0.0,step budget exhausted
+1024,modular,True,23,1,18,0.7826,target reached
+1025,reactive,False,230,1,21,0.0,step budget exhausted
+1025,modular,True,26,1,21,0.8077,target reached
+1026,reactive,True,198,1,13,0.0657,target reached
+1026,modular,True,14,1,13,0.9286,target reached
+1027,reactive,False,230,1,20,0.0,step budget exhausted
+1027,modular,True,97,1,20,0.2062,target reached
+1028,reactive,True,37,1,14,0.3784,target reached
+1028,modular,True,19,1,14,0.7368,target reached
+1029,reactive,True,221,1,20,0.0905,target reached
+1029,modular,True,27,1,20,0.7407,target reached
+1030,reactive,True,127,1,16,0.126,target reached
+1030,modular,True,17,1,16,0.9412,target reached
+1031,reactive,True,27,1,10,0.3704,target reached
+1031,modular,True,13,1,10,0.7692,target reached
+1032,reactive,True,123,1,14,0.1138,target reached
+1032,modular,True,49,1,14,0.2857,target reached
+1033,reactive,True,99,1,12,0.1212,target reached
+1033,modular,True,21,1,12,0.5714,target reached
+1034,reactive,False,230,1,15,0.0,step budget exhausted
+1034,modular,True,22,1,15,0.6818,target reached
+1035,reactive,False,230,1,15,0.0,step budget exhausted
+1035,modular,True,82,1,15,0.1829,target reached
+1036,reactive,True,196,1,19,0.0969,target reached
+1036,modular,True,80,1,19,0.2375,target reached
+1037,reactive,False,230,1,22,0.0,step budget exhausted
+1037,modular,True,27,1,22,0.8148,target reached
+1038,reactive,True,14,1,9,0.6429,target reached
+1038,modular,True,46,1,9,0.1957,target reached
+1039,reactive,False,230,1,25,0.0,step budget exhausted
+1039,modular,True,34,1,25,0.7353,target reached
+1040,reactive,True,93,1,14,0.1505,target reached
+1040,modular,True,21,1,14,0.6667,target reached
+1041,reactive,True,85,1,14,0.1647,target reached
+1041,modular,True,23,1,14,0.6087,target reached
+1042,reactive,False,230,1,11,0.0,step budget exhausted
+1042,modular,True,12,1,11,0.9167,target reached
+1043,reactive,False,230,1,18,0.0,step budget exhausted
+1043,modular,True,67,1,18,0.2687,target reached
+1044,reactive,False,230,1,17,0.0,step budget exhausted
+1044,modular,True,40,1,17,0.425,target reached
+1045,reactive,True,138,1,9,0.0652,target reached
+1045,modular,True,9,0,9,1.0,target reached
+1046,reactive,False,230,1,9,0.0,step budget exhausted
+1046,modular,True,14,1,9,0.6429,target reached
+1047,reactive,False,230,1,13,0.0,step budget exhausted
+1047,modular,True,28,1,13,0.4643,target reached
+1048,reactive,False,230,1,14,0.0,step budget exhausted
+1048,modular,True,17,1,14,0.8235,target reached
+1049,reactive,False,230,1,28,0.0,step budget exhausted
+1049,modular,True,39,1,28,0.7179,target reached
+1050,reactive,True,96,1,9,0.0938,target reached
+1050,modular,True,9,0,9,1.0,target reached
+1051,reactive,False,230,0,22,0.0,step budget exhausted
+1051,modular,True,23,1,22,0.9565,target reached
+1052,reactive,False,230,1,19,0.0,step budget exhausted
+1052,modular,True,34,1,19,0.5588,target reached
+1053,reactive,False,230,1,10,0.0,step budget exhausted
+1053,modular,True,13,1,10,0.7692,target reached
+1054,reactive,False,230,1,18,0.0,step budget exhausted
+1054,modular,True,37,1,18,0.4865,target reached
+1055,reactive,False,230,1,24,0.0,step budget exhausted
+1055,modular,True,29,1,24,0.8276,target reached
+1056,reactive,False,230,1,11,0.0,step budget exhausted
+1056,modular,True,14,1,11,0.7857,target reached
+1057,reactive,False,230,1,15,0.0,step budget exhausted
+1057,modular,True,16,1,15,0.9375,target reached
+1058,reactive,False,230,1,17,0.0,step budget exhausted
+1058,modular,True,32,1,17,0.5312,target reached
+1059,reactive,False,230,1,21,0.0,step budget exhausted
+1059,modular,True,22,1,21,0.9545,target reached
+1060,reactive,False,230,1,14,0.0,step budget exhausted
+1060,modular,True,17,1,14,0.8235,target reached
+1061,reactive,True,62,1,11,0.1774,target reached
+1061,modular,True,12,1,11,0.9167,target reached
+1062,reactive,False,230,1,16,0.0,step budget exhausted
+1062,modular,True,43,1,16,0.3721,target reached
+1063,reactive,False,230,1,17,0.0,step budget exhausted
+1063,modular,True,64,1,17,0.2656,target reached
+1064,reactive,True,109,1,14,0.1284,target reached
+1064,modular,True,15,1,14,0.9333,target reached
+1065,reactive,False,230,1,18,0.0,step budget exhausted
+1065,modular,True,73,1,18,0.2466,target reached
+1066,reactive,False,230,1,14,0.0,step budget exhausted
+1066,modular,True,17,1,14,0.8235,target reached
+1067,reactive,False,230,1,13,0.0,step budget exhausted
+1067,modular,True,48,1,13,0.2708,target reached
+1068,reactive,False,230,1,17,0.0,step budget exhausted
+1068,modular,True,18,1,17,0.9444,target reached
+1069,reactive,True,26,1,11,0.4231,target reached
+1069,modular,True,12,1,11,0.9167,target reached
+1070,reactive,True,46,1,13,0.2826,target reached
+1070,modular,True,14,1,13,0.9286,target reached
+1071,reactive,False,230,1,13,0.0,step budget exhausted
+1071,modular,True,14,1,13,0.9286,target reached
+1072,reactive,False,230,1,20,0.0,step budget exhausted
+1072,modular,True,27,1,20,0.7407,target reached
+1073,reactive,True,104,1,11,0.1058,target reached
+1073,modular,True,56,1,11,0.1964,target reached
+1074,reactive,True,166,1,17,0.1024,target reached
+1074,modular,True,18,1,17,0.9444,target reached
+1075,reactive,False,230,1,17,0.0,step budget exhausted
+1075,modular,True,20,1,17,0.85,target reached
+1076,reactive,False,230,1,23,0.0,step budget exhausted
+1076,modular,True,72,1,23,0.3194,target reached
+1077,reactive,True,64,1,15,0.2344,target reached
+1077,modular,True,26,1,15,0.5769,target reached
+1078,reactive,False,230,1,12,0.0,step budget exhausted
+1078,modular,True,33,1,12,0.3636,target reached
+1079,reactive,False,230,1,11,0.0,step budget exhausted
+1079,modular,True,12,1,11,0.9167,target reached
+1080,reactive,False,230,1,24,0.0,step budget exhausted
+1080,modular,True,85,1,24,0.2824,target reached
+1081,reactive,False,230,1,24,0.0,step budget exhausted
+1081,modular,True,45,1,24,0.5333,target reached
+1082,reactive,True,228,1,19,0.0833,target reached
+1082,modular,True,44,1,19,0.4318,target reached
+1083,reactive,True,218,1,13,0.0596,target reached
+1083,modular,True,34,1,13,0.3824,target reached
+1084,reactive,False,230,1,23,0.0,step budget exhausted
+1084,modular,True,32,1,23,0.7188,target reached
+1085,reactive,False,230,1,17,0.0,step budget exhausted
+1085,modular,True,30,1,17,0.5667,target reached
+1086,reactive,True,17,1,12,0.7059,target reached
+1086,modular,True,49,1,12,0.2449,target reached
+1087,reactive,False,230,1,24,0.0,step budget exhausted
+1087,modular,True,65,1,24,0.3692,target reached
+1088,reactive,True,25,1,10,0.4,target reached
+1088,modular,True,13,1,10,0.7692,target reached
+1089,reactive,True,114,1,13,0.114,target reached
+1089,modular,True,32,1,13,0.4062,target reached
+1090,reactive,True,177,1,14,0.0791,target reached
+1090,modular,True,17,1,14,0.8235,target reached
+1091,reactive,False,230,1,11,0.0,step budget exhausted
+1091,modular,True,56,1,11,0.1964,target reached
+1092,reactive,False,230,1,14,0.0,step budget exhausted
+1092,modular,True,28,0,14,0.5,target reached
+1093,reactive,True,49,1,12,0.2449,target reached
+1093,modular,True,13,1,12,0.9231,target reached
+1094,reactive,False,230,1,18,0.0,step budget exhausted
+1094,modular,True,23,1,18,0.7826,target reached
+1095,reactive,False,230,1,22,0.0,step budget exhausted
+1095,modular,True,73,1,22,0.3014,target reached
+1096,reactive,False,230,1,21,0.0,step budget exhausted
+1096,modular,True,34,1,21,0.6176,target reached
+1097,reactive,False,230,1,18,0.0,step budget exhausted
+1097,modular,True,19,1,18,0.9474,target reached
+1098,reactive,False,230,1,21,0.0,step budget exhausted
+1098,modular,True,22,1,21,0.9545,target reached
+1099,reactive,True,37,1,12,0.3243,target reached
+1099,modular,True,13,1,12,0.9231,target reached
+1100,reactive,True,40,1,9,0.225,target reached
+1100,modular,True,9,0,9,1.0,target reached
+1101,reactive,False,230,1,20,0.0,step budget exhausted
+1101,modular,True,33,1,20,0.6061,target reached
+1102,reactive,True,88,1,9,0.1023,target reached
+1102,modular,True,16,1,9,0.5625,target reached
+1103,reactive,False,230,1,15,0.0,step budget exhausted
+1103,modular,True,66,1,15,0.2273,target reached
+1104,reactive,True,145,1,20,0.1379,target reached
+1104,modular,True,21,1,20,0.9524,target reached
+1105,reactive,True,225,1,20,0.0889,target reached
+1105,modular,True,39,1,20,0.5128,target reached
+1106,reactive,True,59,1,10,0.1695,target reached
+1106,modular,True,37,1,10,0.2703,target reached
+1107,reactive,True,46,1,19,0.413,target reached
+1107,modular,True,26,1,19,0.7308,target reached
+1108,reactive,True,205,1,24,0.1171,target reached
+1108,modular,True,53,1,24,0.4528,target reached
+1109,reactive,False,230,1,28,0.0,step budget exhausted
+1109,modular,True,31,1,28,0.9032,target reached
+1110,reactive,False,230,1,17,0.0,step budget exhausted
+1110,modular,True,42,1,17,0.4048,target reached
+1111,reactive,False,230,1,22,0.0,step budget exhausted
+1111,modular,True,23,1,22,0.9565,target reached
+1112,reactive,False,230,1,17,0.0,step budget exhausted
+1112,modular,True,26,1,17,0.6538,target reached
+1113,reactive,False,230,1,13,0.0,step budget exhausted
+1113,modular,True,44,1,13,0.2955,target reached
+1114,reactive,False,230,1,12,0.0,step budget exhausted
+1114,modular,True,17,1,12,0.7059,target reached
+1115,reactive,True,97,1,10,0.1031,target reached
+1115,modular,True,37,1,10,0.2703,target reached
+1116,reactive,False,230,1,15,0.0,step budget exhausted
+1116,modular,True,38,1,15,0.3947,target reached
+1117,reactive,False,230,1,23,0.0,step budget exhausted
+1117,modular,True,72,1,23,0.3194,target reached
+1118,reactive,False,230,1,20,0.0,step budget exhausted
+1118,modular,True,23,1,20,0.8696,target reached
+1119,reactive,False,230,1,17,0.0,step budget exhausted
+1119,modular,True,32,1,17,0.5312,target reached
+1120,reactive,True,17,1,12,0.7059,target reached
+1120,modular,True,49,1,12,0.2449,target reached
+1121,reactive,False,230,1,19,0.0,step budget exhausted
+1121,modular,True,38,1,19,0.5,target reached
+1122,reactive,True,136,1,19,0.1397,target reached
+1122,modular,True,28,1,19,0.6786,target reached
+1123,reactive,True,110,1,13,0.1182,target reached
+1123,modular,True,14,1,13,0.9286,target reached
+1124,reactive,False,230,1,16,0.0,step budget exhausted
+1124,modular,True,33,1,16,0.4848,target reached
+1125,reactive,False,230,1,13,0.0,step budget exhausted
+1125,modular,True,16,1,13,0.8125,target reached
+1126,reactive,False,230,1,16,0.0,step budget exhausted
+1126,modular,True,43,1,16,0.3721,target reached
+1127,reactive,False,230,1,22,0.0,step budget exhausted
+1127,modular,True,23,1,22,0.9565,target reached
+1128,reactive,True,134,1,15,0.1119,target reached
+1128,modular,True,30,1,15,0.5,target reached
+1129,reactive,False,230,1,24,0.0,step budget exhausted
+1129,modular,True,83,1,24,0.2892,target reached
+1130,reactive,False,230,1,9,0.0,step budget exhausted
+1130,modular,True,20,1,9,0.45,target reached
+1131,reactive,True,35,1,14,0.4,target reached
+1131,modular,True,15,1,14,0.9333,target reached
+1132,reactive,False,230,1,9,0.0,step budget exhausted
+1132,modular,True,12,1,9,0.75,target reached
+1133,reactive,True,218,1,17,0.078,target reached
+1133,modular,True,22,1,17,0.7727,target reached
+1134,reactive,False,230,1,12,0.0,step budget exhausted
+1134,modular,True,19,1,12,0.6316,target reached
+1135,reactive,False,230,1,18,0.0,step budget exhausted
+1135,modular,True,45,1,18,0.4,target reached
+1136,reactive,False,230,1,15,0.0,step budget exhausted
+1136,modular,True,42,1,15,0.3571,target reached
+1137,reactive,False,230,1,22,0.0,step budget exhausted
+1137,modular,True,33,1,22,0.6667,target reached
+1138,reactive,False,230,1,17,0.0,step budget exhausted
+1138,modular,True,72,1,17,0.2361,target reached
+1139,reactive,True,137,1,18,0.1314,target reached
+1139,modular,True,23,1,18,0.7826,target reached
+1140,reactive,True,120,1,17,0.1417,target reached
+1140,modular,True,44,1,17,0.3864,target reached
+1141,reactive,True,72,1,17,0.2361,target reached
+1141,modular,True,20,1,17,0.85,target reached
+1142,reactive,True,49,1,20,0.4082,target reached
+1142,modular,True,21,1,20,0.9524,target reached
+1143,reactive,False,230,1,10,0.0,step budget exhausted
+1143,modular,True,15,1,10,0.6667,target reached
+1144,reactive,False,230,1,17,0.0,step budget exhausted
+1144,modular,True,20,1,17,0.85,target reached
+1145,reactive,False,230,1,23,0.0,step budget exhausted
+1145,modular,True,36,1,23,0.6389,target reached
+1146,reactive,False,230,1,19,0.0,step budget exhausted
+1146,modular,True,30,1,19,0.6333,target reached
+1147,reactive,True,52,1,13,0.25,target reached
+1147,modular,True,14,1,13,0.9286,target reached
+1148,reactive,False,230,1,14,0.0,step budget exhausted
+1148,modular,True,27,1,14,0.5185,target reached
+1149,reactive,True,32,1,9,0.2812,target reached
+1149,modular,True,38,1,9,0.2368,target reached
+1150,reactive,False,230,1,17,0.0,step budget exhausted
+1150,modular,True,92,1,17,0.1848,target reached
+1151,reactive,False,230,1,16,0.0,step budget exhausted
+1151,modular,True,71,1,16,0.2254,target reached
+1152,reactive,True,186,1,15,0.0806,target reached
+1152,modular,True,16,1,15,0.9375,target reached
+1153,reactive,False,230,1,21,0.0,step budget exhausted
+1153,modular,True,34,1,21,0.6176,target reached
+1154,reactive,True,220,1,15,0.0682,target reached
+1154,modular,True,16,1,15,0.9375,target reached
+1155,reactive,True,24,1,13,0.5417,target reached
+1155,modular,True,46,1,13,0.2826,target reached
+1156,reactive,False,230,1,19,0.0,step budget exhausted
+1156,modular,True,22,1,19,0.8636,target reached
+1157,reactive,False,230,1,12,0.0,step budget exhausted
+1157,modular,True,33,1,12,0.3636,target reached
+1158,reactive,True,110,1,21,0.1909,target reached
+1158,modular,True,22,1,21,0.9545,target reached
+1159,reactive,True,214,1,11,0.0514,target reached
+1159,modular,True,38,1,11,0.2895,target reached
+1160,reactive,False,230,1,17,0.0,step budget exhausted
+1160,modular,True,68,1,17,0.25,target reached
+1161,reactive,False,230,1,10,0.0,step budget exhausted
+1161,modular,True,31,1,10,0.3226,target reached
+1162,reactive,False,230,1,17,0.0,step budget exhausted
+1162,modular,True,22,1,17,0.7727,target reached
+1163,reactive,False,230,1,18,0.0,step budget exhausted
+1163,modular,True,19,1,18,0.9474,target reached
+1164,reactive,True,101,1,20,0.198,target reached
+1164,modular,True,33,1,20,0.6061,target reached
+1165,reactive,True,76,1,13,0.1711,target reached
+1165,modular,True,14,1,13,0.9286,target reached
+1166,reactive,False,230,1,20,0.0,step budget exhausted
+1166,modular,True,53,1,20,0.3774,target reached
+1167,reactive,True,41,1,10,0.2439,target reached
+1167,modular,True,13,1,10,0.7692,target reached
+1168,reactive,False,230,1,13,0.0,step budget exhausted
+1168,modular,True,22,1,13,0.5909,target reached
+1169,reactive,True,128,1,11,0.0859,target reached
+1169,modular,True,46,1,11,0.2391,target reached
+1170,reactive,False,230,1,24,0.0,step budget exhausted
+1170,modular,True,33,1,24,0.7273,target reached
+1171,reactive,True,72,1,13,0.1806,target reached
+1171,modular,True,18,1,13,0.7222,target reached
+1172,reactive,False,230,1,24,0.0,step budget exhausted
+1172,modular,True,59,1,24,0.4068,target reached
+1173,reactive,False,230,1,16,0.0,step budget exhausted
+1173,modular,True,37,1,16,0.4324,target reached
+1174,reactive,False,230,1,11,0.0,step budget exhausted
+1174,modular,True,14,1,11,0.7857,target reached
+1175,reactive,False,230,1,13,0.0,step budget exhausted
+1175,modular,True,24,1,13,0.5417,target reached
+1176,reactive,True,151,1,18,0.1192,target reached
+1176,modular,True,27,1,18,0.6667,target reached
+1177,reactive,True,20,1,9,0.45,target reached
+1177,modular,True,9,0,9,1.0,target reached
+1178,reactive,True,130,1,13,0.1,target reached
+1178,modular,True,64,1,13,0.2031,target reached
+1179,reactive,False,230,1,25,0.0,step budget exhausted
+1179,modular,True,38,1,25,0.6579,target reached
+1180,reactive,True,90,1,17,0.1889,target reached
+1180,modular,True,26,1,17,0.6538,target reached
+1181,reactive,False,230,1,14,0.0,step budget exhausted
+1181,modular,True,59,1,14,0.2373,target reached
+1182,reactive,False,230,1,12,0.0,step budget exhausted
+1182,modular,True,45,1,12,0.2667,target reached
+1183,reactive,True,34,1,11,0.3235,target reached
+1183,modular,True,26,1,11,0.4231,target reached
+1184,reactive,False,230,1,21,0.0,step budget exhausted
+1184,modular,True,42,1,21,0.5,target reached
+1185,reactive,False,230,1,12,0.0,step budget exhausted
+1185,modular,True,37,1,12,0.3243,target reached
+1186,reactive,False,230,1,9,0.0,step budget exhausted
+1186,modular,True,28,1,9,0.3214,target reached
+1187,reactive,True,22,1,13,0.5909,target reached
+1187,modular,True,16,1,13,0.8125,target reached
+1188,reactive,False,230,1,22,0.0,step budget exhausted
+1188,modular,True,37,1,22,0.5946,target reached
+1189,reactive,True,38,1,13,0.3421,target reached
+1189,modular,True,34,1,13,0.3824,target reached
+1190,reactive,True,39,1,12,0.3077,target reached
+1190,modular,True,27,1,12,0.4444,target reached
+1191,reactive,True,77,1,12,0.1558,target reached
+1191,modular,True,37,1,12,0.3243,target reached
+1192,reactive,False,230,1,14,0.0,step budget exhausted
+1192,modular,True,23,1,14,0.6087,target reached
+1193,reactive,True,37,1,12,0.3243,target reached
+1193,modular,True,27,1,12,0.4444,target reached
+1194,reactive,False,230,1,13,0.0,step budget exhausted
+1194,modular,True,80,1,13,0.1625,target reached
+1195,reactive,False,230,1,19,0.0,step budget exhausted
+1195,modular,True,28,1,19,0.6786,target reached
+1196,reactive,False,230,1,21,0.0,step budget exhausted
+1196,modular,True,22,1,21,0.9545,target reached
+1197,reactive,False,230,1,13,0.0,step budget exhausted
+1197,modular,True,16,1,13,0.8125,target reached
+1198,reactive,True,92,1,11,0.1196,target reached
+1198,modular,True,20,1,11,0.55,target reached
+1199,reactive,False,230,1,16,0.0,step budget exhausted
+1199,modular,True,53,1,16,0.3019,target reached
+1200,reactive,False,230,1,17,0.0,step budget exhausted
+1200,modular,True,38,1,17,0.4474,target reached
+1201,reactive,False,230,1,19,0.0,step budget exhausted
+1201,modular,True,20,1,19,0.95,target reached
+1202,reactive,True,32,1,11,0.3438,target reached
+1202,modular,True,16,1,11,0.6875,target reached
+1203,reactive,False,230,1,12,0.0,step budget exhausted
+1203,modular,True,21,1,12,0.5714,target reached
+1204,reactive,False,230,1,16,0.0,step budget exhausted
+1204,modular,True,33,1,16,0.4848,target reached
+1205,reactive,False,230,1,15,0.0,step budget exhausted
+1205,modular,True,36,1,15,0.4167,target reached
+1206,reactive,True,162,1,15,0.0926,target reached
+1206,modular,True,22,1,15,0.6818,target reached
+1207,reactive,False,230,1,20,0.0,step budget exhausted
+1207,modular,True,35,1,20,0.5714,target reached
+1208,reactive,False,230,1,15,0.0,step budget exhausted
+1208,modular,True,22,1,15,0.6818,target reached
+1209,reactive,False,230,1,18,0.0,step budget exhausted
+1209,modular,True,39,1,18,0.4615,target reached
+1210,reactive,False,230,1,10,0.0,step budget exhausted
+1210,modular,True,13,1,10,0.7692,target reached
+1211,reactive,True,48,1,15,0.3125,target reached
+1211,modular,True,16,1,15,0.9375,target reached
+1212,reactive,False,230,1,11,0.0,step budget exhausted
+1212,modular,True,14,1,11,0.7857,target reached
+1213,reactive,False,230,1,25,0.0,step budget exhausted
+1213,modular,True,26,1,25,0.9615,target reached
+1214,reactive,False,230,1,25,0.0,step budget exhausted
+1214,modular,True,30,1,25,0.8333,target reached
+1215,reactive,False,230,1,24,0.0,step budget exhausted
+1215,modular,True,39,1,24,0.6154,target reached
+1216,reactive,True,112,1,15,0.1339,target reached
+1216,modular,True,64,1,15,0.2344,target reached
+1217,reactive,False,230,1,22,0.0,step budget exhausted
+1217,modular,True,39,1,22,0.5641,target reached
+1218,reactive,True,93,1,16,0.172,target reached
+1218,modular,True,19,1,16,0.8421,target reached
+1219,reactive,True,63,1,12,0.1905,target reached
+1219,modular,True,15,1,12,0.8,target reached
+1220,reactive,False,230,1,10,0.0,step budget exhausted
+1220,modular,True,87,1,10,0.1149,target reached
+1221,reactive,True,33,1,12,0.3636,target reached
+1221,modular,True,15,1,12,0.8,target reached
+1222,reactive,False,230,1,12,0.0,step budget exhausted
+1222,modular,True,41,1,12,0.2927,target reached
+1223,reactive,False,230,1,22,0.0,step budget exhausted
+1223,modular,True,27,1,22,0.8148,target reached
+1224,reactive,True,172,1,11,0.064,target reached
+1224,modular,True,18,1,11,0.6111,target reached
+1225,reactive,True,163,1,22,0.135,target reached
+1225,modular,True,35,1,22,0.6286,target reached
+1226,reactive,True,106,1,15,0.1415,target reached
+1226,modular,True,16,1,15,0.9375,target reached
+1227,reactive,True,166,1,15,0.0904,target reached
+1227,modular,True,32,1,15,0.4688,target reached
+1228,reactive,True,126,1,17,0.1349,target reached
+1228,modular,True,74,1,17,0.2297,target reached
+1229,reactive,False,230,1,29,0.0,step budget exhausted
+1229,modular,True,36,1,29,0.8056,target reached
+1230,reactive,False,230,1,12,0.0,step budget exhausted
+1230,modular,True,25,1,12,0.48,target reached
+1231,reactive,True,40,1,15,0.375,target reached
+1231,modular,True,20,1,15,0.75,target reached
+1232,reactive,True,98,1,11,0.1122,target reached
+1232,modular,True,20,1,11,0.55,target reached
+1233,reactive,False,230,1,23,0.0,step budget exhausted
+1233,modular,True,34,1,23,0.6765,target reached
+1234,reactive,False,230,1,18,0.0,step budget exhausted
+1234,modular,True,83,1,18,0.2169,target reached
+1235,reactive,False,230,1,10,0.0,step budget exhausted
+1235,modular,True,63,1,10,0.1587,target reached
+1236,reactive,True,40,1,9,0.225,target reached
+1236,modular,True,9,0,9,1.0,target reached
+1237,reactive,False,230,1,15,0.0,step budget exhausted
+1237,modular,True,22,1,15,0.6818,target reached
+1238,reactive,True,171,1,14,0.0819,target reached
+1238,modular,True,15,1,14,0.9333,target reached
+1239,reactive,False,230,1,15,0.0,step budget exhausted
+1239,modular,True,32,1,15,0.4688,target reached
+1240,reactive,True,142,1,13,0.0915,target reached
+1240,modular,True,16,1,13,0.8125,target reached
+1241,reactive,True,127,1,10,0.0787,target reached
+1241,modular,True,13,1,10,0.7692,target reached
+1242,reactive,True,83,1,12,0.1446,target reached
+1242,modular,True,13,1,12,0.9231,target reached
+1243,reactive,True,82,1,15,0.1829,target reached
+1243,modular,True,26,1,15,0.5769,target reached
+1244,reactive,True,97,1,20,0.2062,target reached
+1244,modular,True,25,1,20,0.8,target reached
+1245,reactive,False,230,1,24,0.0,step budget exhausted
+1245,modular,True,25,1,24,0.96,target reached
+1246,reactive,False,230,1,18,0.0,step budget exhausted
+1246,modular,True,79,1,18,0.2278,target reached
+1247,reactive,True,162,1,11,0.0679,target reached
+1247,modular,True,11,0,11,1.0,target reached
+1248,reactive,True,35,1,10,0.2857,target reached
+1248,modular,True,51,1,10,0.1961,target reached
+1249,reactive,False,230,1,19,0.0,step budget exhausted
+1249,modular,True,36,1,19,0.5278,target reached
